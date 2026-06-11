@@ -16,6 +16,7 @@ google-generativeai
 # Hugging Face Integration
 langchain-huggingface
 transformers
+sentence-transformers
 huggingface-hub
 
 # Environment Variable Management

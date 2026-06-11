@@ -12,3 +12,4 @@ venv/
 uv.lock
 .env
 hf_cache
+.DS_Store
