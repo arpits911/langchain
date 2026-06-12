@@ -21,8 +21,10 @@ huggingface-hub
 
 # Environment Variable Management
 python-dotenv
+streamlit
 
 # Machine Learning Utilities
 numpy
 scikit-learn
 torch
+torchvision

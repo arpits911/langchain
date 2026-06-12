@@ -13,3 +13,6 @@ uv.lock
 .env
 hf_cache
 .DS_Store
+
+# Code auto generated files
+*.json
